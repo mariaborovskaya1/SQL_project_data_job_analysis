@@ -79,7 +79,7 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying  
 
 
 
-![text](picture\4d671cfe78cbb63a617875e1f6023157.jpeg)
+![alt text](picture/4d671cfe78cbb63a617875e1f6023157.jpeg)
 
 
 
