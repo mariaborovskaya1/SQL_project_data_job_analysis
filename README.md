@@ -79,11 +79,9 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying  
 
 
 
-![alt text](picture/4d671cfe78cbb63a617875e1f6023157.jpeg)
 
 
 
-Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from my SQL query results
 
 ### 3. In-Demand Skills for Data Analyst
 This query helped identify the skills most frequently requested in job postings, directing focus to areas with high demand.
@@ -114,7 +112,7 @@ Here's the breakdown of the most demanded skills for data analysts in 2023
 
 
 
-Table of the demand for the top 5 skills in data analyst job postings 
+ 
 
 
 ### 4. Skills Based on Salary 
@@ -141,8 +139,7 @@ Here's the breakdown of the results for top paying skills for Data Analysts
 
 
 
-
-Table of the average salary for the top 10 paying skills for data analysts 
+ 
 
 
 ### 5. Most Optimal Skills to Learn
@@ -205,7 +202,6 @@ Here's the breakdown of the most optimal skills for Data Analysts in 2023
 
 
 
-Table of the most optimal skills for data analyst sorted by salary 
 
 # What I Learned
 
